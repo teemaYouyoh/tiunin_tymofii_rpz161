@@ -1,0 +1,57 @@
+{
+	"products" : [
+		{	
+			"id" : "00001",
+			"name" : "Bycicle Standart",
+			"manufacturer" : "Bycicle",
+			"price" : "70$",
+			"country" : "USA",
+			"image" : "images/bicycle-seconds-cards.jpg"
+		},
+		{	
+			"id" : "00002",
+			"name" : "Bycicle Seconds",
+			"manufacturer" : "Bycicle",
+			"price" : "75$",
+			"country" : "USA",
+			"image" : "images/bicycle-seconds-cards.jpg"
+		},
+		{	
+			"id" : "00003",
+			"name" : "Bycicle Shadow Master",
+			"manufacturer" : "Bycicle",
+			"price" : "80$",
+			"country" : "USA",
+			"image" : "images/bicycle-seconds-cards.jpg"
+		},
+		{	
+			"id" : "00004",
+			"name" : "Bycicle Archangels",
+			"manufacturer" : "Bycicle",
+			"price" : "85$",
+			"country" : "USA",
+			"image" : "images/bicycle-seconds-cards.jpg"
+		},
+		{	
+			"id" : "00005",
+			"name" : "Bycicle Steam Punk",
+			"manufacturer" : "Bycicle",
+			"price" : "90$",
+			"country" : "USA",
+			"image" : "images/bicycle-seconds-cards.jpg"
+		},
+		{	
+			"id" : "00006",
+			"name" : "Cartamundi Death Game",
+			"manufacturer" : "Cartamundi",
+			"price" : "75$",
+			"country" : "USA",
+			"image" : "images/bicycle-seconds-cards.jpg"
+		}
+	],
+
+	"manufacturer" : [
+		"Bycicle", "Bee", "Aviators", "Cartamundi", "Cartamundi"
+	]
+}
+
