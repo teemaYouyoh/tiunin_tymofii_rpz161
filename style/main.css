@@ -64,6 +64,7 @@ header{
 .active-menu-link{
 	padding-bottom: 5px;	
 	border-bottom: solid 1px;
+	color: red;
 }
 
 .clear-line{
@@ -260,7 +261,7 @@ header .button-text:hover{
 
 .manufacturer{
 	clear: both;
-	margin-top: 100px; 
+	margin-top: 50px; 
 	margin-bottom: 100px;
 	text-align: center;
 	color: #3c4858;
@@ -272,6 +273,10 @@ header .button-text:hover{
 	font-weight: bold;
 	display: inline-block;
 	margin-right: 50px;
+}
+
+.manufacturer h1{
+	margin-bottom: 50px;
 }
 
 

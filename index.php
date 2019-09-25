@@ -35,14 +35,14 @@
 				<div class="header-menu">
 					<ul>
 						<li><a class="active-menu-link"  href="#">Головна</a></li>
-						<li><a href="flight.html">Магазин</a></li>
+						<li><a href="shop.php">Магазин</a></li>
 						<li><a href="#">Про Нас</a></li>
 						<li><a href="contacts.html">Контакти</a></li>
 					</ul>
 				</div>
 				<div class="clear-line"></div>
 				<div class="header-button">
-					<a class="button-text" href="product.php">ДО МАГАЗИНУ</a>
+					<a class="button-text" href="shop.php">ДО МАГАЗИНУ</a>
 				</div>
 
 			</div>
@@ -172,7 +172,7 @@
 											</a>
 
 											<div class="price">
-												<?php print_r($json->products[$i]->price);?>
+												<?php print_r($json->products[$i]->price); echo ' грн';?>
 											</div>
 
 											<a class="purchase" href="">В КОРЗИНУ</a>
@@ -233,11 +233,11 @@
 							?>
 						</div> 	 -->
 
-						<div class="man">BYCICLE</div>
+						<div class="man">CARTAMUNDI</div>
 						<div class="man">BEE</div>
 						<div class="man">AVIATORS</div><br>
-						<div class="man">CARTAMUNDI</div>
 						<div class="man">BYCICLE</div>
+						<div class="man">TALLY-HO</div>
 
 				</div>
 			</div>

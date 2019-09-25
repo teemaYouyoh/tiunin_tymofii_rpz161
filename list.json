@@ -4,15 +4,15 @@
 			"id" : "00001",
 			"name" : "Bycicle Standart",
 			"manufacturer" : "Bycicle",
-			"price" : "70$",
+			"price" : "110",
 			"country" : "USA",
-			"image" : "images/bicycle-seconds-cards.jpg"
+			"image" : "images/bicycle-standart-cards.jpg"
 		},
 		{	
 			"id" : "00002",
 			"name" : "Bycicle Seconds",
 			"manufacturer" : "Bycicle",
-			"price" : "75$",
+			"price" : "90",
 			"country" : "USA",
 			"image" : "images/bicycle-seconds-cards.jpg"
 		},
@@ -20,38 +20,118 @@
 			"id" : "00003",
 			"name" : "Bycicle Shadow Master",
 			"manufacturer" : "Bycicle",
-			"price" : "80$",
+			"price" : "300",
 			"country" : "USA",
-			"image" : "images/bicycle-seconds-cards.jpg"
+			"image" : "images/bicycle-shadow_master-cards.jpg"
 		},
 		{	
 			"id" : "00004",
 			"name" : "Bycicle Archangels",
 			"manufacturer" : "Bycicle",
-			"price" : "85$",
+			"price" : "245",
 			"country" : "USA",
-			"image" : "images/bicycle-seconds-cards.jpg"
+			"image" : "images/bicycle-archangels-cards.jpg"
 		},
 		{	
 			"id" : "00005",
-			"name" : "Bycicle Steam Punk",
+			"name" : "Bycicle Steampunk",
 			"manufacturer" : "Bycicle",
-			"price" : "90$",
+			"price" : "230",
 			"country" : "USA",
-			"image" : "images/bicycle-seconds-cards.jpg"
+			"image" : "images/bicycle-steampunk-cards.jpg"
 		},
 		{	
 			"id" : "00006",
 			"name" : "Cartamundi Death Game",
 			"manufacturer" : "Cartamundi",
-			"price" : "75$",
+			"price" : "110",
 			"country" : "USA",
-			"image" : "images/bicycle-seconds-cards.jpg"
+			"image" : "images/cartamundi-death-game.jpg"
+		},
+		{	
+			"id" : "00007",
+			"name" : "Bee Seconds",
+			"manufacturer" : "Bee",
+			"price" : "120",
+			"country" : "USA",
+			"image" : "images/bee-standart-cards.jpg"
+		},
+		{	
+			"id" : "00008",
+			"name" : "Tally-Ho Circle Back",
+			"manufacturer" : "Tally-Ho",
+			"price" : "140",
+			"country" : "USA",
+			"image" : "images/tally_ho-circle_back-cards.jpg"
+		},
+		{	
+			"id" : "00009",
+			"name" : "Tally-Ho Fan Back",
+			"manufacturer" : "Tally-Ho",
+			"price" : "140",
+			"country" : "USA",
+			"image" : "images/tally_ho-fan_back-cards.jpg"
+		},
+		{	
+			"id" : "00010",
+			"name" : "Bycicle Stargazer",
+			"manufacturer" : "Bycicle",
+			"price" : "200",
+			"country" : "USA",
+			"image" : "images/bicycle-stargazer-cards.jpg"
+		},
+		{	
+			"id" : "00011",
+			"name" : "Bycicle Skull",
+			"manufacturer" : "Bycicle",
+			"price" : "200",
+			"country" : "USA",
+			"image" : "images/bicycle-skull-cards.jpg"
+		},
+		{	
+			"id" : "00012",
+			"name" : "Bycicle Prestige",
+			"manufacturer" : "Bycicle",
+			"price" : "225",
+			"country" : "USA",
+			"image" : "images/bicycle-prestige-cards.jpg"
+		},
+		{	
+			"id" : "00013",
+			"name" : "Bycicle Rider Black",
+			"manufacturer" : "Bycicle",
+			"price" : "125",
+			"country" : "USA",
+			"image" : "images/bycicle-rider_black-cards.jpg"
+		},
+		{	
+			"id" : "00014",
+			"name" : "Madison Rounders Black",
+			"manufacturer" : "Madison",
+			"price" : "410",
+			"country" : "USA",
+			"image" : "images/madison-rounders_black-cards.jpg"
+		},
+		{	
+			"id" : "00015",
+			"name" : "Ellusionist Killer Bees",
+			"manufacturer" : "Ellusionist",
+			"price" : "300",
+			"country" : "USA",
+			"image" : "images/ellusionist-killer_bees-cards.jpg"
+		},
+		{	
+			"id" : "00016",
+			"name" : "Aviator",
+			"manufacturer" : "Aviator",
+			"price" : "130",
+			"country" : "USA",
+			"image" : "images/aviator-cards.jpg"
 		}
 	],
 
 	"manufacturer" : [
-		"Bycicle", "Bee", "Aviators", "Cartamundi", "Cartamundi"
+		"Bycicle", "Bee", "Aviator", "Cartamundi", "Madison", "Ellusionist"
 	]
 }
 
